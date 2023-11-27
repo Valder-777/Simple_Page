@@ -1,0 +1,2 @@
+# SimplePage
+ HTML/CSS only
